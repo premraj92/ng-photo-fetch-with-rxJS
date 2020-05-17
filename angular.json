@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "sr-photoFetch-with-RxJs": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sr-photoFetch-with-RxJs"
+    }
+  },
+  "defaultProject": "sr-photoFetch-with-RxJs",
+  "cli": {
+    "analytics": "95424742-1968-4596-a178-7bc996c1b8d4"
+  }
 }
